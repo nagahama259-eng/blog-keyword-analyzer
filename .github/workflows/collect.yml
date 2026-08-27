@@ -1,0 +1,20 @@
+name: Collect keyword data
+
+# Vercel Hobby 플랜은 네이티브 크론이 하루 1회로 제한돼 있어, 대신 GitHub Actions로
+# 06:00~07:30 KST(=21:00~22:30 UTC 전날) 10분 간격으로 /api/collect를 호출한다.
+# 각 호출은 짧은 배치 하나만 처리하고, 그날 수집이 이미 끝났으면 즉시 종료된다.
+on:
+  schedule:
+    - cron: "0,10,20,30,40,50 21 * * *"
+    - cron: "0,10,20,30 22 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger /api/collect
+        run: |
+          curl --fail-with-body -sS \
+            -H "Authorization: Bearer ${{ secrets.CRON_SECRET }}" \
+            "${{ vars.COLLECT_URL }}"
