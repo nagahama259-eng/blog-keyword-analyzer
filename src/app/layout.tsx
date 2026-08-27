@@ -18,11 +18,11 @@ export const metadata: Metadata = {
   description: "네이버 블로그 황금 키워드 발굴 대시보드",
 };
 
-/** document.write를 쓰는 위젯이라 격리된 iframe 문서 안에서 실행한다. */
-const COUPANG_BANNER_HTML = `<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1022842,"template":"carousel","trackingCode":"AF1043821","width":"728","height":"90","tsource":""});
-</script>`;
+/**
+ * PartnersCoupang.G가 내부적으로 만드는 광고 iframe이 우리 쪽 wrapper iframe 안에
+ * 중첩되면 쿠팡이 렌더링을 거부해서, wrapper 없이 페이지에 직접 심는다.
+ */
+const COUPANG_BANNER_INIT = `new PartnersCoupang.G({"id":1022842,"template":"carousel","trackingCode":"AF1043821","width":"728","height":"90","tsource":""});`;
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
@@ -58,14 +58,10 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <main className="flex-1">{children}</main>
         <footer className="border-t border-zinc-200 py-6 text-center text-xs text-zinc-400 dark:border-zinc-800 dark:text-zinc-600">
           <div className="mx-auto flex max-w-6xl flex-col items-center gap-2 px-6 py-4">
-            <iframe
-              title="쿠팡 파트너스 배너"
-              srcDoc={COUPANG_BANNER_HTML}
-              width={728}
-              height={90}
-              scrolling="no"
-              style={{ border: "none", maxWidth: "100%" }}
-            />
+            <div className="w-full max-w-[728px] overflow-x-auto">
+              <script src="https://ads-partners.coupang.com/g.js" />
+              <script dangerouslySetInnerHTML={{ __html: COUPANG_BANNER_INIT }} />
+            </div>
             <p className="text-[11px] text-zinc-400 dark:text-zinc-500">
               이 포스팅은 쿠팡파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
             </p>
