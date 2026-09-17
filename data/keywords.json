@@ -5,15 +5,15 @@
     "isSeed": false,
     "expandedFrom": "배당주 투자",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 63300,
-    "monthlyMobileSearch": 4136600,
-    "totalSearch": 4199900,
+    "monthlyPcSearch": 63000,
+    "monthlyMobileSearch": 4133500,
+    "totalSearch": 4196500,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 4195704.295704296,
-    "competitionRatio": 0.0002381009071644563,
+    "goldenScore": 4192307.6923076925,
+    "competitionRatio": 0.00023829381627546765,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "CHATGPT",
@@ -21,15 +21,15 @@
     "isSeed": false,
     "expandedFrom": "챗GPT 활용법",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 1334500,
-    "monthlyMobileSearch": 958100,
-    "totalSearch": 2292600,
+    "monthlyPcSearch": 1345800,
+    "monthlyMobileSearch": 968400,
+    "totalSearch": 2314200,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 2290309.6903096903,
-    "competitionRatio": 0.0004361859897060106,
+    "goldenScore": 2311888.1118881116,
+    "competitionRatio": 0.00043211476968282777,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "카카오주가",
@@ -37,31 +37,15 @@
     "isSeed": false,
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 41500,
-    "monthlyMobileSearch": 537600,
-    "totalSearch": 579100,
+    "monthlyPcSearch": 40900,
+    "monthlyMobileSearch": 529200,
+    "totalSearch": 570100,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 578521.4785214786,
-    "competitionRatio": 0.001726817475392851,
+    "goldenScore": 569530.4695304695,
+    "competitionRatio": 0.0017540782318891423,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
-  },
-  {
-    "keyword": "적금계산기",
-    "category": "재테크",
-    "isSeed": false,
-    "expandedFrom": "파킹통장 금리비교",
-    "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 41500,
-    "monthlyMobileSearch": 147500,
-    "totalSearch": 189000,
-    "blogDocCount": 1000,
-    "isDocCountCapped": true,
-    "goldenScore": 188811.1888111888,
-    "competitionRatio": 0.005291005291005291,
-    "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "금리",
@@ -69,15 +53,31 @@
     "isSeed": false,
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 48800,
-    "monthlyMobileSearch": 137300,
-    "totalSearch": 186100,
+    "monthlyPcSearch": 50800,
+    "monthlyMobileSearch": 150800,
+    "totalSearch": 201600,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 185914.0859140859,
-    "competitionRatio": 0.0053734551316496505,
+    "goldenScore": 201398.60139860137,
+    "competitionRatio": 0.00496031746031746,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
+  },
+  {
+    "keyword": "적금계산기",
+    "category": "재테크",
+    "isSeed": false,
+    "expandedFrom": "파킹통장 금리비교",
+    "adCompetitionLevel": "중간",
+    "monthlyPcSearch": 41100,
+    "monthlyMobileSearch": 146600,
+    "totalSearch": 187700,
+    "blogDocCount": 1000,
+    "isDocCountCapped": true,
+    "goldenScore": 187512.4875124875,
+    "competitionRatio": 0.005327650506126798,
+    "grade": "포화",
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "삼성전자배당금",
@@ -85,15 +85,15 @@
     "isSeed": false,
     "expandedFrom": "배당주 투자",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 22900,
-    "monthlyMobileSearch": 119800,
-    "totalSearch": 142700,
+    "monthlyPcSearch": 22300,
+    "monthlyMobileSearch": 117300,
+    "totalSearch": 139600,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 142557.44255744255,
-    "competitionRatio": 0.00700770847932726,
+    "goldenScore": 139460.53946053944,
+    "competitionRatio": 0.0071633237822349575,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "파킹통장",
@@ -101,15 +101,15 @@
     "isSeed": false,
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 36400,
-    "monthlyMobileSearch": 94700,
-    "totalSearch": 131100,
+    "monthlyPcSearch": 36100,
+    "monthlyMobileSearch": 94100,
+    "totalSearch": 130200,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 130969.03096903097,
-    "competitionRatio": 0.007627765064836003,
+    "goldenScore": 130069.93006993008,
+    "competitionRatio": 0.007680491551459293,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "예금이자계산기",
@@ -118,14 +118,14 @@
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "낮음",
     "monthlyPcSearch": 20700,
-    "monthlyMobileSearch": 99800,
-    "totalSearch": 120500,
+    "monthlyMobileSearch": 99500,
+    "totalSearch": 120200,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 120379.62037962038,
-    "competitionRatio": 0.008298755186721992,
+    "goldenScore": 120079.92007992009,
+    "competitionRatio": 0.008319467554076539,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "적금",
@@ -133,30 +133,30 @@
     "isSeed": false,
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 36300,
-    "monthlyMobileSearch": 84200,
-    "totalSearch": 120500,
+    "monthlyPcSearch": 35900,
+    "monthlyMobileSearch": 83500,
+    "totalSearch": 119400,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 120379.62037962038,
-    "competitionRatio": 0.008298755186721992,
+    "goldenScore": 119280.71928071928,
+    "competitionRatio": 0.008375209380234505,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "청년도약계좌",
     "category": "재테크",
     "isSeed": true,
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 12500,
-    "monthlyMobileSearch": 52200,
-    "totalSearch": 64700,
+    "monthlyPcSearch": 12600,
+    "monthlyMobileSearch": 52500,
+    "totalSearch": 65100,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 64635.36463536464,
-    "competitionRatio": 0.015455950540958269,
+    "goldenScore": 65034.96503496504,
+    "competitionRatio": 0.015360983102918587,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "금리계산기",
@@ -164,15 +164,15 @@
     "isSeed": false,
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 10800,
+    "monthlyPcSearch": 10700,
     "monthlyMobileSearch": 37500,
-    "totalSearch": 48300,
+    "totalSearch": 48200,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 48251.74825174826,
-    "competitionRatio": 0.020703933747412008,
+    "goldenScore": 48151.84815184815,
+    "competitionRatio": 0.02074688796680498,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "미국증시휴장일",
@@ -180,15 +180,15 @@
     "isSeed": false,
     "expandedFrom": "ISA 계좌 추천",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 3390,
-    "monthlyMobileSearch": 38300,
-    "totalSearch": 41690,
+    "monthlyPcSearch": 3380,
+    "monthlyMobileSearch": 38200,
+    "totalSearch": 41580,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 41648.35164835165,
-    "competitionRatio": 0.023986567522187575,
+    "goldenScore": 41538.46153846154,
+    "competitionRatio": 0.02405002405002405,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "저축은행파킹통장",
@@ -197,14 +197,14 @@
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "중간",
     "monthlyPcSearch": 13100,
-    "monthlyMobileSearch": 27500,
-    "totalSearch": 40600,
+    "monthlyMobileSearch": 27400,
+    "totalSearch": 40500,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 40559.44055944056,
-    "competitionRatio": 0.024630541871921183,
+    "goldenScore": 40459.54045954046,
+    "competitionRatio": 0.024691358024691357,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "벽시계",
@@ -212,15 +212,15 @@
     "isSeed": false,
     "expandedFrom": "실내 인테리어 소품",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 7100,
-    "monthlyMobileSearch": 27200,
-    "totalSearch": 34300,
+    "monthlyPcSearch": 7140,
+    "monthlyMobileSearch": 26900,
+    "totalSearch": 34040,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 34265.73426573427,
-    "competitionRatio": 0.029154518950437316,
+    "goldenScore": 34005.994005994005,
+    "competitionRatio": 0.02937720329024677,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "주방수납장",
@@ -228,15 +228,15 @@
     "isSeed": false,
     "expandedFrom": "미니멀 라이프",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 5330,
-    "monthlyMobileSearch": 27000,
-    "totalSearch": 32330,
+    "monthlyPcSearch": 5280,
+    "monthlyMobileSearch": 26900,
+    "totalSearch": 32180,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 32297.7022977023,
-    "competitionRatio": 0.03093102381688834,
+    "goldenScore": 32147.852147852147,
+    "competitionRatio": 0.031075201988812928,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "파킹통장추천",
@@ -244,15 +244,15 @@
     "isSeed": false,
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 7200,
-    "monthlyMobileSearch": 24700,
-    "totalSearch": 31900,
+    "monthlyPcSearch": 7140,
+    "monthlyMobileSearch": 24500,
+    "totalSearch": 31640,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 31868.13186813187,
-    "competitionRatio": 0.03134796238244514,
+    "goldenScore": 31608.39160839161,
+    "competitionRatio": 0.0316055625790139,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "아일랜드식탁",
@@ -260,30 +260,15 @@
     "isSeed": false,
     "expandedFrom": "미니멀 라이프",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 5860,
-    "monthlyMobileSearch": 26000,
-    "totalSearch": 31860,
+    "monthlyPcSearch": 5830,
+    "monthlyMobileSearch": 25800,
+    "totalSearch": 31630,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 31828.171828171828,
-    "competitionRatio": 0.031387319522912745,
+    "goldenScore": 31598.401598401597,
+    "competitionRatio": 0.03161555485298767,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
-  },
-  {
-    "keyword": "아이폰신제품",
-    "category": "IT",
-    "isSeed": true,
-    "adCompetitionLevel": "높음",
-    "monthlyPcSearch": 510,
-    "monthlyMobileSearch": 2370,
-    "totalSearch": 2880,
-    "blogDocCount": 93,
-    "isDocCountCapped": false,
-    "goldenScore": 30638.297872340427,
-    "competitionRatio": 0.03229166666666667,
-    "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "정기예금금리비교",
@@ -291,15 +276,30 @@
     "isSeed": false,
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 7530,
-    "monthlyMobileSearch": 22300,
-    "totalSearch": 29830,
+    "monthlyPcSearch": 7590,
+    "monthlyMobileSearch": 22400,
+    "totalSearch": 29990,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 29800.1998001998,
-    "competitionRatio": 0.03352329869259135,
+    "goldenScore": 29960.03996003996,
+    "competitionRatio": 0.03334444814938313,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
+  },
+  {
+    "keyword": "아이폰신제품",
+    "category": "IT",
+    "isSeed": true,
+    "adCompetitionLevel": "높음",
+    "monthlyPcSearch": 500,
+    "monthlyMobileSearch": 2370,
+    "totalSearch": 2870,
+    "blogDocCount": 95,
+    "isDocCountCapped": false,
+    "goldenScore": 29895.833333333332,
+    "competitionRatio": 0.033101045296167246,
+    "grade": "황금",
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "ISA계좌개설",
@@ -307,15 +307,15 @@
     "isSeed": false,
     "expandedFrom": "ISA 계좌 추천",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 6210,
-    "monthlyMobileSearch": 23500,
-    "totalSearch": 29710,
+    "monthlyPcSearch": 6070,
+    "monthlyMobileSearch": 22800,
+    "totalSearch": 28870,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 29680.31968031968,
-    "competitionRatio": 0.03365870077415012,
+    "goldenScore": 28841.158841158842,
+    "competitionRatio": 0.034638032559750606,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "CMA계좌",
@@ -323,15 +323,15 @@
     "isSeed": false,
     "expandedFrom": "ISA 계좌 추천",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 4570,
-    "monthlyMobileSearch": 24400,
-    "totalSearch": 28970,
+    "monthlyPcSearch": 4460,
+    "monthlyMobileSearch": 23800,
+    "totalSearch": 28260,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 28941.058941058942,
-    "competitionRatio": 0.03451846738004832,
+    "goldenScore": 28231.76823176823,
+    "competitionRatio": 0.035385704175513094,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "쳇지피티",
@@ -339,15 +339,15 @@
     "isSeed": false,
     "expandedFrom": "챗GPT 활용법",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 23300,
-    "monthlyMobileSearch": 4070,
-    "totalSearch": 27370,
+    "monthlyPcSearch": 23500,
+    "monthlyMobileSearch": 4530,
+    "totalSearch": 28030,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 27342.657342657345,
-    "competitionRatio": 0.03653635367190355,
+    "goldenScore": 28001.998001998,
+    "competitionRatio": 0.03567606136282554,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "KB증권ISA예금",
@@ -363,7 +363,7 @@
     "goldenScore": 20000,
     "competitionRatio": 0,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "CHATGPT실무",
@@ -379,7 +379,7 @@
     "goldenScore": 20000,
     "competitionRatio": 0,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "CD금리",
@@ -387,15 +387,15 @@
     "isSeed": false,
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 8970,
-    "monthlyMobileSearch": 9100,
-    "totalSearch": 18070,
+    "monthlyPcSearch": 9060,
+    "monthlyMobileSearch": 9270,
+    "totalSearch": 18330,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 18051.948051948053,
-    "competitionRatio": 0.05534034311012728,
+    "goldenScore": 18311.68831168831,
+    "competitionRatio": 0.05455537370430987,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "CMA통장",
@@ -403,15 +403,15 @@
     "isSeed": false,
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 3170,
-    "monthlyMobileSearch": 13700,
-    "totalSearch": 16870,
+    "monthlyPcSearch": 3130,
+    "monthlyMobileSearch": 13300,
+    "totalSearch": 16430,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 16853.146853146853,
-    "competitionRatio": 0.05927682276229994,
+    "goldenScore": 16413.586413586414,
+    "competitionRatio": 0.06086427267194157,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "은행금리",
@@ -419,15 +419,15 @@
     "isSeed": false,
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 3880,
-    "monthlyMobileSearch": 12300,
-    "totalSearch": 16180,
+    "monthlyPcSearch": 3920,
+    "monthlyMobileSearch": 12500,
+    "totalSearch": 16420,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 16163.836163836162,
-    "competitionRatio": 0.06180469715698393,
+    "goldenScore": 16403.596403596403,
+    "competitionRatio": 0.06090133982947625,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "싱크볼",
@@ -435,30 +435,30 @@
     "isSeed": false,
     "expandedFrom": "미니멀 라이프",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 4640,
-    "monthlyMobileSearch": 10200,
-    "totalSearch": 14840,
+    "monthlyPcSearch": 4460,
+    "monthlyMobileSearch": 10100,
+    "totalSearch": 14560,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 14825.174825174825,
-    "competitionRatio": 0.0673854447439353,
+    "goldenScore": 14545.454545454544,
+    "competitionRatio": 0.06868131868131869,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "파킹통장금리비교",
     "category": "재테크",
     "isSeed": true,
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 4380,
-    "monthlyMobileSearch": 9860,
-    "totalSearch": 14240,
+    "monthlyPcSearch": 4370,
+    "monthlyMobileSearch": 9830,
+    "totalSearch": 14200,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 14225.774225774225,
-    "competitionRatio": 0.0702247191011236,
+    "goldenScore": 14185.814185814186,
+    "competitionRatio": 0.07042253521126761,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "CMA금리비교",
@@ -467,29 +467,29 @@
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "중간",
     "monthlyPcSearch": 3390,
-    "monthlyMobileSearch": 9780,
-    "totalSearch": 13170,
+    "monthlyMobileSearch": 9930,
+    "totalSearch": 13320,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 13156.843156843157,
-    "competitionRatio": 0.07593014426727411,
+    "goldenScore": 13306.693306693307,
+    "competitionRatio": 0.07507507507507508,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "미니멀라이프",
     "category": "생활",
     "isSeed": true,
     "adCompetitionLevel": "높음",
-    "monthlyPcSearch": 2850,
-    "monthlyMobileSearch": 9810,
-    "totalSearch": 12660,
+    "monthlyPcSearch": 2880,
+    "monthlyMobileSearch": 9680,
+    "totalSearch": 12560,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 12647.352647352647,
-    "competitionRatio": 0.07898894154818326,
+    "goldenScore": 12547.452547452547,
+    "competitionRatio": 0.07961783439490445,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "이자계산",
@@ -497,15 +497,15 @@
     "isSeed": false,
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "낮음",
-    "monthlyPcSearch": 3390,
-    "monthlyMobileSearch": 8820,
-    "totalSearch": 12210,
+    "monthlyPcSearch": 3350,
+    "monthlyMobileSearch": 8720,
+    "totalSearch": 12070,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 12197.802197802197,
-    "competitionRatio": 0.0819000819000819,
+    "goldenScore": 12057.942057942057,
+    "competitionRatio": 0.08285004142502071,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "방문",
@@ -513,15 +513,15 @@
     "isSeed": false,
     "expandedFrom": "실내 인테리어 소품",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 4470,
-    "monthlyMobileSearch": 6970,
-    "totalSearch": 11440,
+    "monthlyPcSearch": 4490,
+    "monthlyMobileSearch": 6960,
+    "totalSearch": 11450,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 11428.57142857143,
-    "competitionRatio": 0.08741258741258741,
+    "goldenScore": 11438.561438561437,
+    "competitionRatio": 0.08733624454148471,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "SCHDETF",
@@ -529,15 +529,15 @@
     "isSeed": false,
     "expandedFrom": "배당주 투자",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 1630,
-    "monthlyMobileSearch": 9740,
-    "totalSearch": 11370,
+    "monthlyPcSearch": 1590,
+    "monthlyMobileSearch": 9610,
+    "totalSearch": 11200,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 11358.641358641358,
-    "competitionRatio": 0.08795074758135445,
+    "goldenScore": 11188.811188811189,
+    "competitionRatio": 0.08928571428571429,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "은행금리비교",
@@ -545,15 +545,15 @@
     "isSeed": false,
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 1940,
+    "monthlyPcSearch": 1950,
     "monthlyMobileSearch": 9220,
-    "totalSearch": 11160,
+    "totalSearch": 11170,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 11148.851148851149,
-    "competitionRatio": 0.08960573476702509,
+    "goldenScore": 11158.84115884116,
+    "competitionRatio": 0.08952551477170993,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "KBISA이벤트",
@@ -569,7 +569,7 @@
     "goldenScore": 10000,
     "competitionRatio": 0.06666666666666667,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "CHATGPT전문가",
@@ -585,7 +585,7 @@
     "goldenScore": 10000,
     "competitionRatio": 0.05,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "CHATGPT기사",
@@ -601,7 +601,7 @@
     "goldenScore": 10000,
     "competitionRatio": 0.05,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "파킹통장금리",
@@ -610,14 +610,29 @@
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "중간",
     "monthlyPcSearch": 2420,
-    "monthlyMobileSearch": 6630,
-    "totalSearch": 9050,
+    "monthlyMobileSearch": 6670,
+    "totalSearch": 9090,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 9040.959040959042,
-    "competitionRatio": 0.11049723756906077,
+    "goldenScore": 9080.91908091908,
+    "competitionRatio": 0.11001100110011001,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
+  },
+  {
+    "keyword": "스마트워치비교",
+    "category": "IT",
+    "isSeed": true,
+    "adCompetitionLevel": "높음",
+    "monthlyPcSearch": 2080,
+    "monthlyMobileSearch": 5760,
+    "totalSearch": 7840,
+    "blogDocCount": 1000,
+    "isDocCountCapped": true,
+    "goldenScore": 7832.167832167833,
+    "competitionRatio": 0.12755102040816327,
+    "grade": "포화",
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "에브리띵",
@@ -625,30 +640,15 @@
     "isSeed": false,
     "expandedFrom": "미니멀 라이프",
     "adCompetitionLevel": "중간",
-    "monthlyPcSearch": 6590,
-    "monthlyMobileSearch": 1280,
-    "totalSearch": 7870,
+    "monthlyPcSearch": 6530,
+    "monthlyMobileSearch": 1250,
+    "totalSearch": 7780,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 7862.137862137862,
-    "competitionRatio": 0.12706480304955528,
+    "goldenScore": 7772.227772227772,
+    "competitionRatio": 0.12853470437017994,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
-  },
-  {
-    "keyword": "스마트워치비교",
-    "category": "IT",
-    "isSeed": true,
-    "adCompetitionLevel": "높음",
-    "monthlyPcSearch": 2070,
-    "monthlyMobileSearch": 5610,
-    "totalSearch": 7680,
-    "blogDocCount": 1000,
-    "isDocCountCapped": true,
-    "goldenScore": 7672.327672327673,
-    "competitionRatio": 0.13020833333333334,
-    "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "적금특판",
@@ -657,14 +657,14 @@
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "중간",
     "monthlyPcSearch": 2310,
-    "monthlyMobileSearch": 5170,
-    "totalSearch": 7480,
+    "monthlyMobileSearch": 5220,
+    "totalSearch": 7530,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 7472.527472527473,
-    "competitionRatio": 0.13368983957219252,
+    "goldenScore": 7522.477522477523,
+    "competitionRatio": 0.13280212483399734,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "CMA금리",
@@ -673,14 +673,30 @@
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "중간",
     "monthlyPcSearch": 1990,
-    "monthlyMobileSearch": 5430,
-    "totalSearch": 7420,
+    "monthlyMobileSearch": 5380,
+    "totalSearch": 7370,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 7412.5874125874125,
-    "competitionRatio": 0.1347708894878706,
+    "goldenScore": 7362.6373626373625,
+    "competitionRatio": 0.13568521031207598,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
+  },
+  {
+    "keyword": "CHATGPT번역",
+    "category": "IT",
+    "isSeed": false,
+    "expandedFrom": "챗GPT 활용법",
+    "adCompetitionLevel": "낮음",
+    "monthlyPcSearch": 30,
+    "monthlyMobileSearch": 40,
+    "totalSearch": 70,
+    "blogDocCount": 12,
+    "isDocCountCapped": false,
+    "goldenScore": 5384.615384615385,
+    "competitionRatio": 0.17142857142857143,
+    "grade": "황금",
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "북유럽주방용품",
@@ -696,7 +712,7 @@
     "goldenScore": 5000,
     "competitionRatio": 0.15,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "KBMMF",
@@ -712,7 +728,7 @@
     "goldenScore": 5000,
     "competitionRatio": 0.15,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "SBI바빌론닷컴",
@@ -728,23 +744,23 @@
     "goldenScore": 5000,
     "competitionRatio": 0.15,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
-    "keyword": "CHATGPT번역",
-    "category": "IT",
+    "keyword": "수납",
+    "category": "생활",
     "isSeed": false,
-    "expandedFrom": "챗GPT 활용법",
+    "expandedFrom": "미니멀 라이프",
     "adCompetitionLevel": "낮음",
-    "monthlyPcSearch": 30,
-    "monthlyMobileSearch": 30,
-    "totalSearch": 60,
-    "blogDocCount": 12,
-    "isDocCountCapped": false,
-    "goldenScore": 4615.384615384615,
-    "competitionRatio": 0.2,
-    "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "monthlyPcSearch": 1070,
+    "monthlyMobileSearch": 2950,
+    "totalSearch": 4020,
+    "blogDocCount": 1000,
+    "isDocCountCapped": true,
+    "goldenScore": 4015.9840159840164,
+    "competitionRatio": 0.24875621890547264,
+    "grade": "포화",
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "옷장정리서비스",
@@ -760,7 +776,7 @@
     "goldenScore": 4000,
     "competitionRatio": 0.2,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "KB증권CMA수수료",
@@ -776,7 +792,7 @@
     "goldenScore": 4000,
     "competitionRatio": 0.2,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "CHATGPT강의추천",
@@ -792,38 +808,7 @@
     "goldenScore": 4000,
     "competitionRatio": 0.2,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
-  },
-  {
-    "keyword": "수납",
-    "category": "생활",
-    "isSeed": false,
-    "expandedFrom": "미니멀 라이프",
-    "adCompetitionLevel": "낮음",
-    "monthlyPcSearch": 1050,
-    "monthlyMobileSearch": 2920,
-    "totalSearch": 3970,
-    "blogDocCount": 1000,
-    "isDocCountCapped": true,
-    "goldenScore": 3966.033966033966,
-    "competitionRatio": 0.2518891687657431,
-    "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
-  },
-  {
-    "keyword": "ISA계좌추천",
-    "category": "재테크",
-    "isSeed": true,
-    "adCompetitionLevel": "높음",
-    "monthlyPcSearch": 920,
-    "monthlyMobileSearch": 2280,
-    "totalSearch": 3200,
-    "blogDocCount": 1000,
-    "isDocCountCapped": true,
-    "goldenScore": 3196.803196803197,
-    "competitionRatio": 0.3125,
-    "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "내일배움카드챗GPT",
@@ -834,12 +819,27 @@
     "monthlyPcSearch": 10,
     "monthlyMobileSearch": 10,
     "totalSearch": 20,
-    "blogDocCount": 6,
+    "blogDocCount": 5,
     "isDocCountCapped": false,
-    "goldenScore": 2857.1428571428573,
-    "competitionRatio": 0.3,
+    "goldenScore": 3333.3333333333335,
+    "competitionRatio": 0.25,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
+  },
+  {
+    "keyword": "ISA계좌추천",
+    "category": "재테크",
+    "isSeed": true,
+    "adCompetitionLevel": "높음",
+    "monthlyPcSearch": 900,
+    "monthlyMobileSearch": 2220,
+    "totalSearch": 3120,
+    "blogDocCount": 1000,
+    "isDocCountCapped": true,
+    "goldenScore": 3116.883116883117,
+    "competitionRatio": 0.32051282051282054,
+    "grade": "포화",
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "ISA뜻",
@@ -847,15 +847,15 @@
     "isSeed": false,
     "expandedFrom": "ISA 계좌 추천",
     "adCompetitionLevel": "낮음",
-    "monthlyPcSearch": 260,
-    "monthlyMobileSearch": 1200,
-    "totalSearch": 1460,
-    "blogDocCount": 518,
+    "monthlyPcSearch": 250,
+    "monthlyMobileSearch": 1130,
+    "totalSearch": 1380,
+    "blogDocCount": 510,
     "isDocCountCapped": false,
-    "goldenScore": 2813.102119460501,
-    "competitionRatio": 0.3547945205479452,
+    "goldenScore": 2700.587084148728,
+    "competitionRatio": 0.3695652173913043,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "KITCHEN",
@@ -863,15 +863,15 @@
     "isSeed": false,
     "expandedFrom": "미니멀 라이프",
     "adCompetitionLevel": "낮음",
-    "monthlyPcSearch": 560,
-    "monthlyMobileSearch": 2130,
-    "totalSearch": 2690,
+    "monthlyPcSearch": 550,
+    "monthlyMobileSearch": 2120,
+    "totalSearch": 2670,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 2687.312687312687,
-    "competitionRatio": 0.37174721189591076,
+    "goldenScore": 2667.3326673326674,
+    "competitionRatio": 0.37453183520599254,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "동양배당금",
@@ -887,7 +887,7 @@
     "goldenScore": 2500,
     "competitionRatio": 0.35,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "삼성증권ISA이벤트",
@@ -898,12 +898,12 @@
     "monthlyPcSearch": 90,
     "monthlyMobileSearch": 220,
     "totalSearch": 310,
-    "blogDocCount": 128,
+    "blogDocCount": 127,
     "isDocCountCapped": false,
-    "goldenScore": 2403.100775193798,
-    "competitionRatio": 0.4129032258064516,
+    "goldenScore": 2421.875,
+    "competitionRatio": 0.4096774193548387,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "배당금계산기",
@@ -914,12 +914,12 @@
     "monthlyPcSearch": 540,
     "monthlyMobileSearch": 1570,
     "totalSearch": 2110,
-    "blogDocCount": 910,
+    "blogDocCount": 907,
     "isDocCountCapped": false,
-    "goldenScore": 2316.136114160264,
-    "competitionRatio": 0.4312796208530806,
+    "goldenScore": 2323.7885462555064,
+    "competitionRatio": 0.42985781990521327,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "생활",
@@ -927,15 +927,15 @@
     "isSeed": false,
     "expandedFrom": "미니멀 라이프",
     "adCompetitionLevel": "낮음",
-    "monthlyPcSearch": 400,
+    "monthlyPcSearch": 410,
     "monthlyMobileSearch": 1560,
-    "totalSearch": 1960,
+    "totalSearch": 1970,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 1958.0419580419582,
-    "competitionRatio": 0.5102040816326531,
+    "goldenScore": 1968.031968031968,
+    "competitionRatio": 0.5076142131979695,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "초보자를위한주식입문",
@@ -951,7 +951,7 @@
     "goldenScore": 1818.181818181818,
     "competitionRatio": 0.5,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "CHATGPT활용수업",
@@ -967,7 +967,7 @@
     "goldenScore": 1818.181818181818,
     "competitionRatio": 0.5,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "조코딩",
@@ -983,7 +983,7 @@
     "goldenScore": 1778.221778221778,
     "competitionRatio": 0.5617977528089888,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "바이넥스배당",
@@ -999,7 +999,7 @@
     "goldenScore": 1666.6666666666667,
     "competitionRatio": 0.55,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "일드맥스8월배당",
@@ -1015,7 +1015,7 @@
     "goldenScore": 1538.4615384615386,
     "competitionRatio": 0.6,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "MRNY",
@@ -1024,14 +1024,14 @@
     "expandedFrom": "배당주 투자",
     "adCompetitionLevel": "낮음",
     "monthlyPcSearch": 360,
-    "monthlyMobileSearch": 1020,
-    "totalSearch": 1380,
+    "monthlyMobileSearch": 1030,
+    "totalSearch": 1390,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 1378.6213786213787,
-    "competitionRatio": 0.7246376811594203,
+    "goldenScore": 1388.6113886113887,
+    "competitionRatio": 0.7194244604316546,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "CMAMMW",
@@ -1039,15 +1039,15 @@
     "isSeed": false,
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "낮음",
-    "monthlyPcSearch": 220,
-    "monthlyMobileSearch": 700,
-    "totalSearch": 920,
-    "blogDocCount": 672,
+    "monthlyPcSearch": 210,
+    "monthlyMobileSearch": 690,
+    "totalSearch": 900,
+    "blogDocCount": 668,
     "isDocCountCapped": false,
-    "goldenScore": 1367.0133729569093,
-    "competitionRatio": 0.7304347826086957,
+    "goldenScore": 1345.291479820628,
+    "competitionRatio": 0.7422222222222222,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "호텔장스탠드",
@@ -1063,7 +1063,7 @@
     "goldenScore": 1333.3333333333333,
     "competitionRatio": 0.7,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "챗봇GPT사이트",
@@ -1079,7 +1079,7 @@
     "goldenScore": 1333.3333333333333,
     "competitionRatio": 0.7,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "삼성증권ISA",
@@ -1087,15 +1087,15 @@
     "isSeed": false,
     "expandedFrom": "ISA 계좌 추천",
     "adCompetitionLevel": "낮음",
-    "monthlyPcSearch": 380,
-    "monthlyMobileSearch": 920,
-    "totalSearch": 1300,
+    "monthlyPcSearch": 360,
+    "monthlyMobileSearch": 860,
+    "totalSearch": 1220,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 1298.7012987012986,
-    "competitionRatio": 0.7692307692307693,
+    "goldenScore": 1218.7812187812187,
+    "competitionRatio": 0.819672131147541,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "미디인강",
@@ -1111,7 +1111,7 @@
     "goldenScore": 1111.111111111111,
     "competitionRatio": 0.85,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "절세",
@@ -1120,14 +1120,14 @@
     "expandedFrom": "ISA 계좌 추천",
     "adCompetitionLevel": "낮음",
     "monthlyPcSearch": 350,
-    "monthlyMobileSearch": 670,
-    "totalSearch": 1020,
+    "monthlyMobileSearch": 660,
+    "totalSearch": 1010,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 1018.9810189810189,
-    "competitionRatio": 0.9803921568627451,
+    "goldenScore": 1008.991008991009,
+    "competitionRatio": 0.9900990099009901,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "대신증권배당금",
@@ -1143,7 +1143,7 @@
     "goldenScore": 993.7888198757764,
     "competitionRatio": 1.003125,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "알텍테크놀로지스",
@@ -1159,7 +1159,7 @@
     "goldenScore": 869.5652173913044,
     "competitionRatio": 1.1,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "베가스단축키",
@@ -1175,7 +1175,7 @@
     "goldenScore": 833.3333333333334,
     "competitionRatio": 1.15,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "유니템즈",
@@ -1191,7 +1191,7 @@
     "goldenScore": 740.7407407407406,
     "competitionRatio": 1.3,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "클라우드스토리지추천",
@@ -1206,7 +1206,7 @@
     "goldenScore": 714.2857142857143,
     "competitionRatio": 1.35,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "열다",
@@ -1215,14 +1215,14 @@
     "expandedFrom": "미니멀 라이프",
     "adCompetitionLevel": "낮음",
     "monthlyPcSearch": 160,
-    "monthlyMobileSearch": 520,
-    "totalSearch": 680,
+    "monthlyMobileSearch": 510,
+    "totalSearch": 670,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 679.3206793206793,
-    "competitionRatio": 1.4705882352941178,
+    "goldenScore": 669.3306693306694,
+    "competitionRatio": 1.492537313432836,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "ULTY",
@@ -1238,7 +1238,7 @@
     "goldenScore": 649.3506493506493,
     "competitionRatio": 1.5384615384615385,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "IWMYETF",
@@ -1254,23 +1254,7 @@
     "goldenScore": 645.1612903225806,
     "competitionRatio": 1.5,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
-  },
-  {
-    "keyword": "미소파트너",
-    "category": "생활",
-    "isSeed": false,
-    "expandedFrom": "미니멀 라이프",
-    "adCompetitionLevel": "낮음",
-    "monthlyPcSearch": 80,
-    "monthlyMobileSearch": 390,
-    "totalSearch": 470,
-    "blogDocCount": 749,
-    "isDocCountCapped": false,
-    "goldenScore": 626.6666666666667,
-    "competitionRatio": 1.5936170212765957,
-    "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "저축은행특판",
@@ -1279,14 +1263,14 @@
     "expandedFrom": "파킹통장 금리비교",
     "adCompetitionLevel": "낮음",
     "monthlyPcSearch": 130,
-    "monthlyMobileSearch": 460,
-    "totalSearch": 590,
+    "monthlyMobileSearch": 470,
+    "totalSearch": 600,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 589.4105894105894,
-    "competitionRatio": 1.694915254237288,
+    "goldenScore": 599.4005994005994,
+    "competitionRatio": 1.6666666666666667,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "챗GTP교육",
@@ -1302,7 +1286,7 @@
     "goldenScore": 571.4285714285714,
     "competitionRatio": 1.7,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "챗GTP강의",
@@ -1318,7 +1302,7 @@
     "goldenScore": 555.5555555555555,
     "competitionRatio": 1.75,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "챗GPT강의추천",
@@ -1334,7 +1318,7 @@
     "goldenScore": 540.5405405405405,
     "competitionRatio": 1.8,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "에어프라이어레시피",
@@ -1342,14 +1326,14 @@
     "isSeed": true,
     "adCompetitionLevel": "높음",
     "monthlyPcSearch": 70,
-    "monthlyMobileSearch": 470,
-    "totalSearch": 540,
+    "monthlyMobileSearch": 460,
+    "totalSearch": 530,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 539.4605394605395,
-    "competitionRatio": 1.8518518518518519,
+    "goldenScore": 529.4705294705294,
+    "competitionRatio": 1.8867924528301887,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "창원정리업체",
@@ -1365,7 +1349,7 @@
     "goldenScore": 487.8048780487805,
     "competitionRatio": 2.025,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "KB증권발행어음CMA",
@@ -1381,7 +1365,23 @@
     "goldenScore": 476.19047619047615,
     "competitionRatio": 2.05,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
+  },
+  {
+    "keyword": "미소파트너",
+    "category": "생활",
+    "isSeed": false,
+    "expandedFrom": "미니멀 라이프",
+    "adCompetitionLevel": "낮음",
+    "monthlyPcSearch": 80,
+    "monthlyMobileSearch": 380,
+    "totalSearch": 460,
+    "blogDocCount": 1000,
+    "isDocCountCapped": true,
+    "goldenScore": 459.54045954045955,
+    "competitionRatio": 2.1739130434782608,
+    "grade": "포화",
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "챗GPT출강",
@@ -1397,22 +1397,7 @@
     "goldenScore": 454.5454545454545,
     "competitionRatio": 2.15,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
-  },
-  {
-    "keyword": "배당주투자",
-    "category": "재테크",
-    "isSeed": true,
-    "adCompetitionLevel": "높음",
-    "monthlyPcSearch": 140,
-    "monthlyMobileSearch": 240,
-    "totalSearch": 380,
-    "blogDocCount": 1000,
-    "isDocCountCapped": true,
-    "goldenScore": 379.62037962037965,
-    "competitionRatio": 2.6315789473684212,
-    "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "챗봇가격",
@@ -1423,12 +1408,27 @@
     "monthlyPcSearch": 10,
     "monthlyMobileSearch": 10,
     "totalSearch": 20,
-    "blogDocCount": 52,
+    "blogDocCount": 53,
     "isDocCountCapped": false,
-    "goldenScore": 377.35849056603774,
-    "competitionRatio": 2.6,
+    "goldenScore": 370.3703703703703,
+    "competitionRatio": 2.65,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
+  },
+  {
+    "keyword": "배당주투자",
+    "category": "재테크",
+    "isSeed": true,
+    "adCompetitionLevel": "높음",
+    "monthlyPcSearch": 130,
+    "monthlyMobileSearch": 240,
+    "totalSearch": 370,
+    "blogDocCount": 1000,
+    "isDocCountCapped": true,
+    "goldenScore": 369.6303696303696,
+    "competitionRatio": 2.7027027027027026,
+    "grade": "포화",
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "챗GPT국비",
@@ -1439,28 +1439,12 @@
     "monthlyPcSearch": 10,
     "monthlyMobileSearch": 10,
     "totalSearch": 20,
-    "blogDocCount": 58,
+    "blogDocCount": 56,
     "isDocCountCapped": false,
-    "goldenScore": 338.9830508474576,
-    "competitionRatio": 2.9,
+    "goldenScore": 350.8771929824561,
+    "competitionRatio": 2.8,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
-  },
-  {
-    "keyword": "ISA삼성증권",
-    "category": "재테크",
-    "isSeed": false,
-    "expandedFrom": "ISA 계좌 추천",
-    "adCompetitionLevel": "낮음",
-    "monthlyPcSearch": 20,
-    "monthlyMobileSearch": 40,
-    "totalSearch": 60,
-    "blogDocCount": 191,
-    "isDocCountCapped": false,
-    "goldenScore": 312.5,
-    "competitionRatio": 3.183333333333333,
-    "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "앤틱가구브랜드",
@@ -1476,23 +1460,7 @@
     "goldenScore": 312.5,
     "competitionRatio": 3.15,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
-  },
-  {
-    "keyword": "앤틱단스탠드",
-    "category": "생활",
-    "isSeed": false,
-    "expandedFrom": "실내 인테리어 소품",
-    "adCompetitionLevel": "낮음",
-    "monthlyPcSearch": 10,
-    "monthlyMobileSearch": 10,
-    "totalSearch": 20,
-    "blogDocCount": 66,
-    "isDocCountCapped": false,
-    "goldenScore": 298.5074626865671,
-    "competitionRatio": 3.3,
-    "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "FIATETF",
@@ -1508,22 +1476,22 @@
     "goldenScore": 289.8550724637681,
     "competitionRatio": 3.4,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "실내인테리어소품",
     "category": "생활",
     "isSeed": true,
     "adCompetitionLevel": "높음",
-    "monthlyPcSearch": 30,
-    "monthlyMobileSearch": 260,
+    "monthlyPcSearch": 20,
+    "monthlyMobileSearch": 270,
     "totalSearch": 290,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
     "goldenScore": 289.7102897102897,
     "competitionRatio": 3.4482758620689653,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "GOOY",
@@ -1531,15 +1499,47 @@
     "isSeed": false,
     "expandedFrom": "배당주 투자",
     "adCompetitionLevel": "낮음",
-    "monthlyPcSearch": 80,
+    "monthlyPcSearch": 90,
     "monthlyMobileSearch": 200,
-    "totalSearch": 280,
+    "totalSearch": 290,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 279.72027972027973,
-    "competitionRatio": 3.5714285714285716,
+    "goldenScore": 289.7102897102897,
+    "competitionRatio": 3.4482758620689653,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
+  },
+  {
+    "keyword": "앤틱단스탠드",
+    "category": "생활",
+    "isSeed": false,
+    "expandedFrom": "실내 인테리어 소품",
+    "adCompetitionLevel": "낮음",
+    "monthlyPcSearch": 10,
+    "monthlyMobileSearch": 10,
+    "totalSearch": 20,
+    "blogDocCount": 69,
+    "isDocCountCapped": false,
+    "goldenScore": 285.7142857142857,
+    "competitionRatio": 3.45,
+    "grade": "황금",
+    "collectedAt": "2026-09-17T21:13:14.648Z"
+  },
+  {
+    "keyword": "ISA삼성증권",
+    "category": "재테크",
+    "isSeed": false,
+    "expandedFrom": "ISA 계좌 추천",
+    "adCompetitionLevel": "낮음",
+    "monthlyPcSearch": 10,
+    "monthlyMobileSearch": 40,
+    "totalSearch": 50,
+    "blogDocCount": 181,
+    "isDocCountCapped": false,
+    "goldenScore": 274.72527472527474,
+    "competitionRatio": 3.62,
+    "grade": "황금",
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "촬영소품돌",
@@ -1555,7 +1555,7 @@
     "goldenScore": 270.27027027027026,
     "competitionRatio": 3.65,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "재택근무툴",
@@ -1570,7 +1570,7 @@
     "goldenScore": 219.78021978021977,
     "competitionRatio": 4.5,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "리플센트",
@@ -1586,7 +1586,7 @@
     "goldenScore": 217.3913043478261,
     "competitionRatio": 4.55,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "CHATGPT강사",
@@ -1602,22 +1602,7 @@
     "goldenScore": 217.3913043478261,
     "competitionRatio": 4.55,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
-  },
-  {
-    "keyword": "캠핑초보준비물",
-    "category": "생활",
-    "isSeed": true,
-    "adCompetitionLevel": "높음",
-    "monthlyPcSearch": 20,
-    "monthlyMobileSearch": 60,
-    "totalSearch": 80,
-    "blogDocCount": 374,
-    "isDocCountCapped": false,
-    "goldenScore": 213.33333333333334,
-    "competitionRatio": 4.675,
-    "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "전기요금개편",
@@ -1625,14 +1610,14 @@
     "isSeed": true,
     "adCompetitionLevel": "낮음",
     "monthlyPcSearch": 70,
-    "monthlyMobileSearch": 140,
-    "totalSearch": 210,
+    "monthlyMobileSearch": 130,
+    "totalSearch": 200,
     "blogDocCount": 1000,
     "isDocCountCapped": true,
-    "goldenScore": 209.7902097902098,
-    "competitionRatio": 4.761904761904762,
+    "goldenScore": 199.8001998001998,
+    "competitionRatio": 5,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "와인액자",
@@ -1648,7 +1633,22 @@
     "goldenScore": 194.17475728155338,
     "competitionRatio": 5.1,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
+  },
+  {
+    "keyword": "캠핑초보준비물",
+    "category": "생활",
+    "isSeed": true,
+    "adCompetitionLevel": "높음",
+    "monthlyPcSearch": 20,
+    "monthlyMobileSearch": 50,
+    "totalSearch": 70,
+    "blogDocCount": 379,
+    "isDocCountCapped": false,
+    "goldenScore": 184.21052631578945,
+    "competitionRatio": 5.414285714285715,
+    "grade": "황금",
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "옷정리도우미",
@@ -1664,7 +1664,7 @@
     "goldenScore": 163.93442622950818,
     "competitionRatio": 6.05,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "배당주강의",
@@ -1680,7 +1680,7 @@
     "goldenScore": 155.03875968992247,
     "competitionRatio": 6.4,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "해외주식옮기기",
@@ -1691,12 +1691,12 @@
     "monthlyPcSearch": 10,
     "monthlyMobileSearch": 90,
     "totalSearch": 100,
-    "blogDocCount": 663,
+    "blogDocCount": 648,
     "isDocCountCapped": false,
-    "goldenScore": 150.60240963855424,
-    "competitionRatio": 6.63,
+    "goldenScore": 154.08320493066256,
+    "competitionRatio": 6.48,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "챗GPT한글사용법",
@@ -1712,7 +1712,7 @@
     "goldenScore": 132.45033112582783,
     "competitionRatio": 7.5,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "챗GPT활용법",
@@ -1727,23 +1727,7 @@
     "goldenScore": 119.88011988011989,
     "competitionRatio": 8.333333333333334,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
-  },
-  {
-    "keyword": "삼성증권ISA계좌",
-    "category": "재테크",
-    "isSeed": false,
-    "expandedFrom": "ISA 계좌 추천",
-    "adCompetitionLevel": "낮음",
-    "monthlyPcSearch": 40,
-    "monthlyMobileSearch": 80,
-    "totalSearch": 120,
-    "blogDocCount": 1000,
-    "isDocCountCapped": true,
-    "goldenScore": 119.88011988011989,
-    "competitionRatio": 8.333333333333334,
-    "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "접시직구",
@@ -1759,7 +1743,7 @@
     "goldenScore": 116.95906432748538,
     "competitionRatio": 8.5,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "좁은집넓게쓰는정리의기술",
@@ -1775,7 +1759,23 @@
     "goldenScore": 111.73184357541899,
     "competitionRatio": 8.9,
     "grade": "황금",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
+  },
+  {
+    "keyword": "삼성증권ISA계좌",
+    "category": "재테크",
+    "isSeed": false,
+    "expandedFrom": "ISA 계좌 추천",
+    "adCompetitionLevel": "낮음",
+    "monthlyPcSearch": 40,
+    "monthlyMobileSearch": 70,
+    "totalSearch": 110,
+    "blogDocCount": 1000,
+    "isDocCountCapped": true,
+    "goldenScore": 109.89010989010988,
+    "competitionRatio": 9.090909090909092,
+    "grade": "포화",
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "자취살림템",
@@ -1785,12 +1785,12 @@
     "monthlyPcSearch": 10,
     "monthlyMobileSearch": 10,
     "totalSearch": 20,
-    "blogDocCount": 206,
+    "blogDocCount": 207,
     "isDocCountCapped": false,
-    "goldenScore": 96.61835748792271,
-    "competitionRatio": 10.3,
+    "goldenScore": 96.15384615384616,
+    "competitionRatio": 10.35,
     "grade": "양호",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "신박한정리업체",
@@ -1801,12 +1801,12 @@
     "monthlyPcSearch": 10,
     "monthlyMobileSearch": 10,
     "totalSearch": 20,
-    "blogDocCount": 216,
+    "blogDocCount": 215,
     "isDocCountCapped": false,
-    "goldenScore": 92.16589861751153,
-    "competitionRatio": 10.8,
+    "goldenScore": 92.59259259259258,
+    "competitionRatio": 10.75,
     "grade": "양호",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "천안정리정돈",
@@ -1822,7 +1822,7 @@
     "goldenScore": 90.49773755656108,
     "competitionRatio": 11,
     "grade": "양호",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "젤라앤틱",
@@ -1838,7 +1838,7 @@
     "goldenScore": 89.91008991008991,
     "competitionRatio": 11.11111111111111,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "베가스강의",
@@ -1854,7 +1854,7 @@
     "goldenScore": 78.74015748031496,
     "competitionRatio": 12.65,
     "grade": "양호",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "QQQY배당",
@@ -1870,7 +1870,7 @@
     "goldenScore": 78.43137254901961,
     "competitionRatio": 12.7,
     "grade": "양호",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "수입그릇아울렛",
@@ -1881,12 +1881,12 @@
     "monthlyPcSearch": 10,
     "monthlyMobileSearch": 20,
     "totalSearch": 30,
-    "blogDocCount": 423,
+    "blogDocCount": 424,
     "isDocCountCapped": false,
-    "goldenScore": 70.75471698113208,
-    "competitionRatio": 14.1,
+    "goldenScore": 70.58823529411765,
+    "competitionRatio": 14.133333333333333,
     "grade": "양호",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "99퍼센트",
@@ -1902,7 +1902,7 @@
     "goldenScore": 69.93006993006993,
     "competitionRatio": 14.285714285714286,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "오드리햅번포스터",
@@ -1918,7 +1918,7 @@
     "goldenScore": 69.93006993006993,
     "competitionRatio": 14.25,
     "grade": "양호",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "예쁜인테리어소품파는곳",
@@ -1934,23 +1934,7 @@
     "goldenScore": 60.97560975609756,
     "competitionRatio": 16.35,
     "grade": "양호",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
-  },
-  {
-    "keyword": "배당률계산",
-    "category": "재테크",
-    "isSeed": false,
-    "expandedFrom": "배당주 투자",
-    "adCompetitionLevel": "낮음",
-    "monthlyPcSearch": 20,
-    "monthlyMobileSearch": 40,
-    "totalSearch": 60,
-    "blogDocCount": 1000,
-    "isDocCountCapped": true,
-    "goldenScore": 59.940059940059946,
-    "competitionRatio": 16.666666666666668,
-    "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "코덱스미국배당프리미엄",
@@ -1961,12 +1945,12 @@
     "monthlyPcSearch": 10,
     "monthlyMobileSearch": 10,
     "totalSearch": 20,
-    "blogDocCount": 344,
+    "blogDocCount": 343,
     "isDocCountCapped": false,
-    "goldenScore": 57.971014492753625,
-    "competitionRatio": 17.2,
+    "goldenScore": 58.13953488372093,
+    "competitionRatio": 17.15,
     "grade": "양호",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "YMAXETF",
@@ -1982,7 +1966,7 @@
     "goldenScore": 57.80346820809248,
     "competitionRatio": 17.25,
     "grade": "양호",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "33평주방리모델링",
@@ -1993,12 +1977,12 @@
     "monthlyPcSearch": 10,
     "monthlyMobileSearch": 10,
     "totalSearch": 20,
-    "blogDocCount": 350,
+    "blogDocCount": 351,
     "isDocCountCapped": false,
-    "goldenScore": 56.98005698005698,
-    "competitionRatio": 17.5,
+    "goldenScore": 56.81818181818181,
+    "competitionRatio": 17.55,
     "grade": "양호",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "IWMY",
@@ -2014,7 +1998,7 @@
     "goldenScore": 56.33802816901409,
     "competitionRatio": 17.7,
     "grade": "양호",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "대전정리정돈",
@@ -2025,12 +2009,12 @@
     "monthlyPcSearch": 10,
     "monthlyMobileSearch": 10,
     "totalSearch": 20,
-    "blogDocCount": 381,
+    "blogDocCount": 382,
     "isDocCountCapped": false,
-    "goldenScore": 52.35602094240838,
-    "competitionRatio": 19.05,
+    "goldenScore": 52.21932114882506,
+    "competitionRatio": 19.1,
     "grade": "양호",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "주식무료수수료",
@@ -2041,28 +2025,12 @@
     "monthlyPcSearch": 10,
     "monthlyMobileSearch": 10,
     "totalSearch": 20,
-    "blogDocCount": 388,
+    "blogDocCount": 383,
     "isDocCountCapped": false,
-    "goldenScore": 51.41388174807198,
-    "competitionRatio": 19.4,
+    "goldenScore": 52.083333333333336,
+    "competitionRatio": 19.15,
     "grade": "양호",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
-  },
-  {
-    "keyword": "옷정리서비스",
-    "category": "생활",
-    "isSeed": false,
-    "expandedFrom": "미니멀 라이프",
-    "adCompetitionLevel": "낮음",
-    "monthlyPcSearch": 10,
-    "monthlyMobileSearch": 20,
-    "totalSearch": 30,
-    "blogDocCount": 599,
-    "isDocCountCapped": false,
-    "goldenScore": 50,
-    "competitionRatio": 19.966666666666665,
-    "grade": "양호",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "부동산정책변경",
@@ -2077,7 +2045,39 @@
     "goldenScore": 49.95004995004995,
     "competitionRatio": 20,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
+  },
+  {
+    "keyword": "배당률계산",
+    "category": "재테크",
+    "isSeed": false,
+    "expandedFrom": "배당주 투자",
+    "adCompetitionLevel": "낮음",
+    "monthlyPcSearch": 10,
+    "monthlyMobileSearch": 40,
+    "totalSearch": 50,
+    "blogDocCount": 1000,
+    "isDocCountCapped": true,
+    "goldenScore": 49.95004995004995,
+    "competitionRatio": 20,
+    "grade": "포화",
+    "collectedAt": "2026-09-17T21:13:14.648Z"
+  },
+  {
+    "keyword": "옷정리서비스",
+    "category": "생활",
+    "isSeed": false,
+    "expandedFrom": "미니멀 라이프",
+    "adCompetitionLevel": "낮음",
+    "monthlyPcSearch": 10,
+    "monthlyMobileSearch": 20,
+    "totalSearch": 30,
+    "blogDocCount": 600,
+    "isDocCountCapped": false,
+    "goldenScore": 49.91680532445923,
+    "competitionRatio": 20,
+    "grade": "양호",
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "6월배당주",
@@ -2093,7 +2093,7 @@
     "goldenScore": 44.345898004434595,
     "competitionRatio": 22.5,
     "grade": "양호",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "배당락지수",
@@ -2104,12 +2104,12 @@
     "monthlyPcSearch": 10,
     "monthlyMobileSearch": 10,
     "totalSearch": 20,
-    "blogDocCount": 472,
+    "blogDocCount": 476,
     "isDocCountCapped": false,
-    "goldenScore": 42.28329809725159,
-    "competitionRatio": 23.6,
+    "goldenScore": 41.928721174004195,
+    "competitionRatio": 23.8,
     "grade": "양호",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "FBY",
@@ -2125,7 +2125,7 @@
     "goldenScore": 39.96003996003996,
     "competitionRatio": 25,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "정리연구소",
@@ -2141,7 +2141,7 @@
     "goldenScore": 29.970029970029973,
     "competitionRatio": 33.333333333333336,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "투톤씽크대",
@@ -2157,7 +2157,7 @@
     "goldenScore": 29.970029970029973,
     "competitionRatio": 33.333333333333336,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "이탈리아주방가구",
@@ -2173,7 +2173,7 @@
     "goldenScore": 21.62162162162162,
     "competitionRatio": 46.2,
     "grade": "보통",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "최저임금인상",
@@ -2188,7 +2188,7 @@
     "goldenScore": 19.98001998001998,
     "competitionRatio": 50,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "명절선물트렌드",
@@ -2203,7 +2203,7 @@
     "goldenScore": 19.98001998001998,
     "competitionRatio": 50,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "배쓰타올",
@@ -2219,7 +2219,7 @@
     "goldenScore": 19.98001998001998,
     "competitionRatio": 50,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "홈정리",
@@ -2235,7 +2235,7 @@
     "goldenScore": 19.98001998001998,
     "competitionRatio": 50,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "빈티지정원소품",
@@ -2251,7 +2251,7 @@
     "goldenScore": 19.98001998001998,
     "competitionRatio": 50,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "유니크한소품",
@@ -2267,7 +2267,7 @@
     "goldenScore": 19.98001998001998,
     "competitionRatio": 50,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "PYPY",
@@ -2283,7 +2283,7 @@
     "goldenScore": 19.98001998001998,
     "competitionRatio": 50,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "JPMO",
@@ -2299,7 +2299,7 @@
     "goldenScore": 19.98001998001998,
     "competitionRatio": 50,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "주식문의",
@@ -2315,7 +2315,7 @@
     "goldenScore": 19.98001998001998,
     "competitionRatio": 50,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "주식첫거래",
@@ -2331,7 +2331,7 @@
     "goldenScore": 19.98001998001998,
     "competitionRatio": 50,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "챗GPT수업",
@@ -2347,7 +2347,7 @@
     "goldenScore": 19.98001998001998,
     "competitionRatio": 50,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "웹개발강의",
@@ -2363,7 +2363,7 @@
     "goldenScore": 19.98001998001998,
     "competitionRatio": 50,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   },
   {
     "keyword": "챗GPT기초",
@@ -2379,6 +2379,6 @@
     "goldenScore": 19.98001998001998,
     "competitionRatio": 50,
     "grade": "포화",
-    "collectedAt": "2026-09-16T21:13:20.418Z"
+    "collectedAt": "2026-09-17T21:13:14.648Z"
   }
 ]
