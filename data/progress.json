@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "phase": "scoring",
-  "collectedAt": "2026-10-25T23:03:35.772Z",
+  "collectedAt": "2026-10-27T00:16:08.723Z",
   "selected": [
     {
       "stat": {
         "relKeyword": "에어프라이어레시피",
-        "monthlyPcSearch": 360,
-        "monthlyMobileSearch": 160,
-        "totalSearch": 520,
+        "monthlyPcSearch": 440,
+        "monthlyMobileSearch": 170,
+        "totalSearch": 610,
         "competitionLevel": "중간"
       },
       "isSeed": true,
@@ -28,9 +28,9 @@
     {
       "stat": {
         "relKeyword": "미니멀라이프",
-        "monthlyPcSearch": 2320,
-        "monthlyMobileSearch": 8460,
-        "totalSearch": 10780,
+        "monthlyPcSearch": 2450,
+        "monthlyMobileSearch": 8480,
+        "totalSearch": 10930,
         "competitionLevel": "높음"
       },
       "isSeed": true,
@@ -51,8 +51,8 @@
       "stat": {
         "relKeyword": "실내인테리어소품",
         "monthlyPcSearch": 20,
-        "monthlyMobileSearch": 200,
-        "totalSearch": 220,
+        "monthlyMobileSearch": 190,
+        "totalSearch": 210,
         "competitionLevel": "높음"
       },
       "isSeed": true,
@@ -105,9 +105,9 @@
     {
       "stat": {
         "relKeyword": "ISA계좌추천",
-        "monthlyPcSearch": 620,
-        "monthlyMobileSearch": 1660,
-        "totalSearch": 2280,
+        "monthlyPcSearch": 630,
+        "monthlyMobileSearch": 1670,
+        "totalSearch": 2300,
         "competitionLevel": "높음"
       },
       "isSeed": true,
@@ -116,8 +116,8 @@
     {
       "stat": {
         "relKeyword": "청년도약계좌",
-        "monthlyPcSearch": 16200,
-        "monthlyMobileSearch": 67400,
+        "monthlyPcSearch": 16500,
+        "monthlyMobileSearch": 67100,
         "totalSearch": 83600,
         "competitionLevel": "낮음"
       },
@@ -138,9 +138,9 @@
     {
       "stat": {
         "relKeyword": "파킹통장금리비교",
-        "monthlyPcSearch": 3780,
+        "monthlyPcSearch": 3890,
         "monthlyMobileSearch": 10200,
-        "totalSearch": 13980,
+        "totalSearch": 14090,
         "competitionLevel": "중간"
       },
       "isSeed": true,
@@ -182,9 +182,9 @@
     {
       "stat": {
         "relKeyword": "스마트워치비교",
-        "monthlyPcSearch": 1250,
-        "monthlyMobileSearch": 4750,
-        "totalSearch": 6000,
+        "monthlyPcSearch": 1230,
+        "monthlyMobileSearch": 4740,
+        "totalSearch": 5970,
         "competitionLevel": "높음"
       },
       "isSeed": true,
@@ -204,9 +204,9 @@
     {
       "stat": {
         "relKeyword": "적금계산기",
-        "monthlyPcSearch": 31400,
-        "monthlyMobileSearch": 114900,
-        "totalSearch": 146300,
+        "monthlyPcSearch": 32600,
+        "monthlyMobileSearch": 116300,
+        "totalSearch": 148900,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -216,9 +216,9 @@
     {
       "stat": {
         "relKeyword": "예금이자계산기",
-        "monthlyPcSearch": 18900,
-        "monthlyMobileSearch": 99100,
-        "totalSearch": 118000,
+        "monthlyPcSearch": 19700,
+        "monthlyMobileSearch": 100600,
+        "totalSearch": 120300,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -228,9 +228,9 @@
     {
       "stat": {
         "relKeyword": "이자계산",
-        "monthlyPcSearch": 2870,
-        "monthlyMobileSearch": 7620,
-        "totalSearch": 10490,
+        "monthlyPcSearch": 2990,
+        "monthlyMobileSearch": 7740,
+        "totalSearch": 10730,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -241,8 +241,8 @@
       "stat": {
         "relKeyword": "캐서린홀름",
         "monthlyPcSearch": 120,
-        "monthlyMobileSearch": 4380,
-        "totalSearch": 4500,
+        "monthlyMobileSearch": 4350,
+        "totalSearch": 4470,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -252,9 +252,9 @@
     {
       "stat": {
         "relKeyword": "수납",
-        "monthlyPcSearch": 810,
-        "monthlyMobileSearch": 2920,
-        "totalSearch": 3730,
+        "monthlyPcSearch": 850,
+        "monthlyMobileSearch": 2950,
+        "totalSearch": 3800,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -264,9 +264,9 @@
     {
       "stat": {
         "relKeyword": "KITCHEN",
-        "monthlyPcSearch": 490,
-        "monthlyMobileSearch": 1910,
-        "totalSearch": 2400,
+        "monthlyPcSearch": 510,
+        "monthlyMobileSearch": 1900,
+        "totalSearch": 2410,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -276,9 +276,9 @@
     {
       "stat": {
         "relKeyword": "생활",
-        "monthlyPcSearch": 320,
-        "monthlyMobileSearch": 1230,
-        "totalSearch": 1550,
+        "monthlyPcSearch": 330,
+        "monthlyMobileSearch": 1250,
+        "totalSearch": 1580,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -288,9 +288,9 @@
     {
       "stat": {
         "relKeyword": "삼성증권CMA",
-        "monthlyPcSearch": 410,
-        "monthlyMobileSearch": 1040,
-        "totalSearch": 1450,
+        "monthlyPcSearch": 420,
+        "monthlyMobileSearch": 1060,
+        "totalSearch": 1480,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -301,8 +301,8 @@
       "stat": {
         "relKeyword": "배당금계산기",
         "monthlyPcSearch": 430,
-        "monthlyMobileSearch": 1000,
-        "totalSearch": 1430,
+        "monthlyMobileSearch": 990,
+        "totalSearch": 1420,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -312,9 +312,9 @@
     {
       "stat": {
         "relKeyword": "조코딩",
-        "monthlyPcSearch": 470,
-        "monthlyMobileSearch": 590,
-        "totalSearch": 1060,
+        "monthlyPcSearch": 490,
+        "monthlyMobileSearch": 600,
+        "totalSearch": 1090,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -325,8 +325,8 @@
       "stat": {
         "relKeyword": "ISA뜻",
         "monthlyPcSearch": 180,
-        "monthlyMobileSearch": 860,
-        "totalSearch": 1040,
+        "monthlyMobileSearch": 850,
+        "totalSearch": 1030,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -337,8 +337,8 @@
       "stat": {
         "relKeyword": "CMAMMW",
         "monthlyPcSearch": 210,
-        "monthlyMobileSearch": 720,
-        "totalSearch": 930,
+        "monthlyMobileSearch": 730,
+        "totalSearch": 940,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -348,9 +348,9 @@
     {
       "stat": {
         "relKeyword": "절세",
-        "monthlyPcSearch": 210,
+        "monthlyPcSearch": 230,
         "monthlyMobileSearch": 690,
-        "totalSearch": 900,
+        "totalSearch": 920,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -360,9 +360,9 @@
     {
       "stat": {
         "relKeyword": "KB증권CMA",
-        "monthlyPcSearch": 200,
-        "monthlyMobileSearch": 640,
-        "totalSearch": 840,
+        "monthlyPcSearch": 210,
+        "monthlyMobileSearch": 650,
+        "totalSearch": 860,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -371,27 +371,27 @@
     },
     {
       "stat": {
+        "relKeyword": "삼성증권ISA",
+        "monthlyPcSearch": 220,
+        "monthlyMobileSearch": 460,
+        "totalSearch": 680,
+        "competitionLevel": "낮음"
+      },
+      "isSeed": false,
+      "category": "재테크",
+      "expandedFrom": "ISA 계좌 추천"
+    },
+    {
+      "stat": {
         "relKeyword": "MRNY",
-        "monthlyPcSearch": 180,
-        "monthlyMobileSearch": 480,
+        "monthlyPcSearch": 190,
+        "monthlyMobileSearch": 470,
         "totalSearch": 660,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
       "category": "재테크",
       "expandedFrom": "배당주 투자"
-    },
-    {
-      "stat": {
-        "relKeyword": "삼성증권ISA",
-        "monthlyPcSearch": 210,
-        "monthlyMobileSearch": 440,
-        "totalSearch": 650,
-        "competitionLevel": "낮음"
-      },
-      "isSeed": false,
-      "category": "재테크",
-      "expandedFrom": "ISA 계좌 추천"
     },
     {
       "stat": {
@@ -409,8 +409,8 @@
       "stat": {
         "relKeyword": "미소파트너",
         "monthlyPcSearch": 60,
-        "monthlyMobileSearch": 340,
-        "totalSearch": 400,
+        "monthlyMobileSearch": 350,
+        "totalSearch": 410,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -419,22 +419,10 @@
     },
     {
       "stat": {
-        "relKeyword": "삼성증권ISA이벤트",
-        "monthlyPcSearch": 90,
-        "monthlyMobileSearch": 270,
-        "totalSearch": 360,
-        "competitionLevel": "낮음"
-      },
-      "isSeed": false,
-      "category": "재테크",
-      "expandedFrom": "ISA 계좌 추천"
-    },
-    {
-      "stat": {
         "relKeyword": "저축은행특판",
         "monthlyPcSearch": 80,
-        "monthlyMobileSearch": 280,
-        "totalSearch": 360,
+        "monthlyMobileSearch": 300,
+        "totalSearch": 380,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -443,10 +431,22 @@
     },
     {
       "stat": {
+        "relKeyword": "삼성증권ISA이벤트",
+        "monthlyPcSearch": 100,
+        "monthlyMobileSearch": 270,
+        "totalSearch": 370,
+        "competitionLevel": "낮음"
+      },
+      "isSeed": false,
+      "category": "재테크",
+      "expandedFrom": "ISA 계좌 추천"
+    },
+    {
+      "stat": {
         "relKeyword": "대신증권배당금",
         "monthlyPcSearch": 80,
-        "monthlyMobileSearch": 260,
-        "totalSearch": 340,
+        "monthlyMobileSearch": 280,
+        "totalSearch": 360,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -468,9 +468,9 @@
     {
       "stat": {
         "relKeyword": "블루블루데이지",
-        "monthlyPcSearch": 70,
+        "monthlyPcSearch": 80,
         "monthlyMobileSearch": 180,
-        "totalSearch": 250,
+        "totalSearch": 260,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -480,9 +480,9 @@
     {
       "stat": {
         "relKeyword": "삼성증권ISA계좌",
-        "monthlyPcSearch": 60,
+        "monthlyPcSearch": 50,
         "monthlyMobileSearch": 190,
-        "totalSearch": 250,
+        "totalSearch": 240,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -493,8 +493,8 @@
       "stat": {
         "relKeyword": "GOOY",
         "monthlyPcSearch": 80,
-        "monthlyMobileSearch": 150,
-        "totalSearch": 230,
+        "monthlyMobileSearch": 140,
+        "totalSearch": 220,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
@@ -527,18 +527,6 @@
     },
     {
       "stat": {
-        "relKeyword": "해외주식옮기기",
-        "monthlyPcSearch": 10,
-        "monthlyMobileSearch": 50,
-        "totalSearch": 60,
-        "competitionLevel": "낮음"
-      },
-      "isSeed": false,
-      "category": "재테크",
-      "expandedFrom": "ISA 계좌 추천"
-    },
-    {
-      "stat": {
         "relKeyword": "99퍼센트",
         "monthlyPcSearch": 10,
         "monthlyMobileSearch": 50,
@@ -551,15 +539,15 @@
     },
     {
       "stat": {
-        "relKeyword": "YMAXETF",
+        "relKeyword": "해외주식옮기기",
         "monthlyPcSearch": 10,
-        "monthlyMobileSearch": 30,
-        "totalSearch": 40,
+        "monthlyMobileSearch": 40,
+        "totalSearch": 50,
         "competitionLevel": "낮음"
       },
       "isSeed": false,
       "category": "재테크",
-      "expandedFrom": "배당주 투자"
+      "expandedFrom": "ISA 계좌 추천"
     },
     {
       "stat": {
@@ -612,6 +600,18 @@
     {
       "stat": {
         "relKeyword": "FBY",
+        "monthlyPcSearch": 10,
+        "monthlyMobileSearch": 20,
+        "totalSearch": 30,
+        "competitionLevel": "낮음"
+      },
+      "isSeed": false,
+      "category": "재테크",
+      "expandedFrom": "배당주 투자"
+    },
+    {
+      "stat": {
+        "relKeyword": "YMAXETF",
         "monthlyPcSearch": 10,
         "monthlyMobileSearch": 20,
         "totalSearch": 30,
@@ -1560,9 +1560,9 @@
     {
       "stat": {
         "relKeyword": "삼성전자주가",
-        "monthlyPcSearch": 1132100,
-        "monthlyMobileSearch": 15980000,
-        "totalSearch": 17112100,
+        "monthlyPcSearch": 1181100,
+        "monthlyMobileSearch": 16674200,
+        "totalSearch": 17855300,
         "competitionLevel": "중간"
       },
       "isSeed": false,
@@ -1572,9 +1572,9 @@
     {
       "stat": {
         "relKeyword": "챗지피티",
-        "monthlyPcSearch": 5910300,
-        "monthlyMobileSearch": 8713900,
-        "totalSearch": 14624200,
+        "monthlyPcSearch": 6121600,
+        "monthlyMobileSearch": 8765900,
+        "totalSearch": 14887500,
         "competitionLevel": "중간"
       },
       "isSeed": false,
@@ -1584,9 +1584,9 @@
     {
       "stat": {
         "relKeyword": "미국증시",
-        "monthlyPcSearch": 51700,
-        "monthlyMobileSearch": 3326700,
-        "totalSearch": 3378400,
+        "monthlyPcSearch": 52200,
+        "monthlyMobileSearch": 3312500,
+        "totalSearch": 3364700,
         "competitionLevel": "중간"
       },
       "isSeed": false,
@@ -1596,9 +1596,9 @@
     {
       "stat": {
         "relKeyword": "CHATGPT",
-        "monthlyPcSearch": 1203500,
-        "monthlyMobileSearch": 840200,
-        "totalSearch": 2043700,
+        "monthlyPcSearch": 1240400,
+        "monthlyMobileSearch": 845200,
+        "totalSearch": 2085600,
         "competitionLevel": "중간"
       },
       "isSeed": false,
@@ -1608,9 +1608,9 @@
     {
       "stat": {
         "relKeyword": "주식시세",
-        "monthlyPcSearch": 17300,
-        "monthlyMobileSearch": 783100,
-        "totalSearch": 800400,
+        "monthlyPcSearch": 18200,
+        "monthlyMobileSearch": 819200,
+        "totalSearch": 837400,
         "competitionLevel": "중간"
       },
       "isSeed": false,
@@ -1620,9 +1620,9 @@
     {
       "stat": {
         "relKeyword": "파킹통장",
-        "monthlyPcSearch": 29100,
+        "monthlyPcSearch": 29800,
         "monthlyMobileSearch": 89600,
-        "totalSearch": 118700,
+        "totalSearch": 119400,
         "competitionLevel": "중간"
       },
       "isSeed": false,
@@ -1632,9 +1632,21 @@
     {
       "stat": {
         "relKeyword": "적금",
-        "monthlyPcSearch": 25700,
-        "monthlyMobileSearch": 70700,
-        "totalSearch": 96400,
+        "monthlyPcSearch": 26700,
+        "monthlyMobileSearch": 70800,
+        "totalSearch": 97500,
+        "competitionLevel": "중간"
+      },
+      "isSeed": false,
+      "category": "재테크",
+      "expandedFrom": "파킹통장 금리비교"
+    },
+    {
+      "stat": {
+        "relKeyword": "루닛주가",
+        "monthlyPcSearch": 4760,
+        "monthlyMobileSearch": 73400,
+        "totalSearch": 78160,
         "competitionLevel": "중간"
       },
       "isSeed": false,
@@ -1644,9 +1656,9 @@
     {
       "stat": {
         "relKeyword": "ISA계좌",
-        "monthlyPcSearch": 13300,
-        "monthlyMobileSearch": 57300,
-        "totalSearch": 70600,
+        "monthlyPcSearch": 13600,
+        "monthlyMobileSearch": 57200,
+        "totalSearch": 70800,
         "competitionLevel": "중간"
       },
       "isSeed": false,
@@ -1655,22 +1667,10 @@
     },
     {
       "stat": {
-        "relKeyword": "루닛주가",
-        "monthlyPcSearch": 2940,
-        "monthlyMobileSearch": 62800,
-        "totalSearch": 65740,
-        "competitionLevel": "중간"
-      },
-      "isSeed": false,
-      "category": "재테크",
-      "expandedFrom": "파킹통장 금리비교"
-    },
-    {
-      "stat": {
         "relKeyword": "저축은행파킹통장",
-        "monthlyPcSearch": 10600,
+        "monthlyPcSearch": 10900,
         "monthlyMobileSearch": 26100,
-        "totalSearch": 36700,
+        "totalSearch": 37000,
         "competitionLevel": "중간"
       },
       "isSeed": false,
@@ -1680,9 +1680,9 @@
     {
       "stat": {
         "relKeyword": "파킹통장추천",
-        "monthlyPcSearch": 5970,
-        "monthlyMobileSearch": 24900,
-        "totalSearch": 30870,
+        "monthlyPcSearch": 6190,
+        "monthlyMobileSearch": 25100,
+        "totalSearch": 31290,
         "competitionLevel": "중간"
       },
       "isSeed": false,
@@ -1692,9 +1692,9 @@
     {
       "stat": {
         "relKeyword": "벽시계",
-        "monthlyPcSearch": 6020,
+        "monthlyPcSearch": 6070,
         "monthlyMobileSearch": 23800,
-        "totalSearch": 29820,
+        "totalSearch": 29870,
         "competitionLevel": "중간"
       },
       "isSeed": false,
@@ -1704,9 +1704,9 @@
     {
       "stat": {
         "relKeyword": "CMA계좌",
-        "monthlyPcSearch": 3850,
-        "monthlyMobileSearch": 25400,
-        "totalSearch": 29250,
+        "monthlyPcSearch": 4010,
+        "monthlyMobileSearch": 25600,
+        "totalSearch": 29610,
         "competitionLevel": "중간"
       },
       "isSeed": false,
@@ -1716,21 +1716,9 @@
     {
       "stat": {
         "relKeyword": "아일랜드식탁",
-        "monthlyPcSearch": 5000,
-        "monthlyMobileSearch": 24100,
-        "totalSearch": 29100,
-        "competitionLevel": "중간"
-      },
-      "isSeed": false,
-      "category": "생활",
-      "expandedFrom": "미니멀 라이프"
-    },
-    {
-      "stat": {
-        "relKeyword": "주방수납장",
-        "monthlyPcSearch": 4550,
-        "monthlyMobileSearch": 22700,
-        "totalSearch": 27250,
+        "monthlyPcSearch": 5160,
+        "monthlyMobileSearch": 24000,
+        "totalSearch": 29160,
         "competitionLevel": "중간"
       },
       "isSeed": false,
@@ -1740,9 +1728,9 @@
     {
       "stat": {
         "relKeyword": "정기예금금리비교",
-        "monthlyPcSearch": 6630,
-        "monthlyMobileSearch": 20300,
-        "totalSearch": 26930,
+        "monthlyPcSearch": 6900,
+        "monthlyMobileSearch": 20800,
+        "totalSearch": 27700,
         "competitionLevel": "중간"
       },
       "isSeed": false,
@@ -1751,10 +1739,22 @@
     },
     {
       "stat": {
+        "relKeyword": "주방수납장",
+        "monthlyPcSearch": 4650,
+        "monthlyMobileSearch": 22600,
+        "totalSearch": 27250,
+        "competitionLevel": "중간"
+      },
+      "isSeed": false,
+      "category": "생활",
+      "expandedFrom": "미니멀 라이프"
+    },
+    {
+      "stat": {
         "relKeyword": "예금이자",
-        "monthlyPcSearch": 5310,
-        "monthlyMobileSearch": 13900,
-        "totalSearch": 19210,
+        "monthlyPcSearch": 5490,
+        "monthlyMobileSearch": 14000,
+        "totalSearch": 19490,
         "competitionLevel": "중간"
       },
       "isSeed": false,
@@ -1764,9 +1764,9 @@
     {
       "stat": {
         "relKeyword": "ISA계좌개설",
-        "monthlyPcSearch": 3590,
+        "monthlyPcSearch": 3700,
         "monthlyMobileSearch": 14700,
-        "totalSearch": 18290,
+        "totalSearch": 18400,
         "competitionLevel": "중간"
       },
       "isSeed": false,
@@ -1775,464 +1775,17 @@
     },
     {
       "stat": {
-        "relKeyword": "싱크볼",
-        "monthlyPcSearch": 4790,
-        "monthlyMobileSearch": 9320,
-        "totalSearch": 14110,
+        "relKeyword": "CMA금리비교",
+        "monthlyPcSearch": 3250,
+        "monthlyMobileSearch": 10900,
+        "totalSearch": 14150,
         "competitionLevel": "중간"
       },
       "isSeed": false,
-      "category": "생활",
-      "expandedFrom": "미니멀 라이프"
+      "category": "재테크",
+      "expandedFrom": "파킹통장 금리비교"
     }
   ],
-  "nextIndex": 29,
-  "metrics": [
-    {
-      "keyword": "에어프라이어레시피",
-      "category": "생활",
-      "isSeed": true,
-      "adCompetitionLevel": "중간",
-      "monthlyPcSearch": 360,
-      "monthlyMobileSearch": 160,
-      "totalSearch": 520,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 519.4805194805194,
-      "competitionRatio": 1.9230769230769231,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "자취살림템",
-      "category": "생활",
-      "isSeed": true,
-      "adCompetitionLevel": "중간",
-      "monthlyPcSearch": 10,
-      "monthlyMobileSearch": 10,
-      "totalSearch": 20,
-      "blogDocCount": 225,
-      "isDocCountCapped": false,
-      "goldenScore": 88.49557522123894,
-      "competitionRatio": 11.25,
-      "grade": "양호",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "미니멀라이프",
-      "category": "생활",
-      "isSeed": true,
-      "adCompetitionLevel": "높음",
-      "monthlyPcSearch": 2320,
-      "monthlyMobileSearch": 8460,
-      "totalSearch": 10780,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 10769.23076923077,
-      "competitionRatio": 0.09276437847866419,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "캠핑초보준비물",
-      "category": "생활",
-      "isSeed": true,
-      "adCompetitionLevel": "높음",
-      "monthlyPcSearch": 40,
-      "monthlyMobileSearch": 90,
-      "totalSearch": 130,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 129.87012987012986,
-      "competitionRatio": 7.6923076923076925,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "실내인테리어소품",
-      "category": "생활",
-      "isSeed": true,
-      "adCompetitionLevel": "높음",
-      "monthlyPcSearch": 20,
-      "monthlyMobileSearch": 200,
-      "totalSearch": 220,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 219.78021978021977,
-      "competitionRatio": 4.545454545454546,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "최저임금인상",
-      "category": "이슈",
-      "isSeed": true,
-      "adCompetitionLevel": "낮음",
-      "monthlyPcSearch": 10,
-      "monthlyMobileSearch": 10,
-      "totalSearch": 20,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 19.98001998001998,
-      "competitionRatio": 50,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "전기요금개편",
-      "category": "이슈",
-      "isSeed": true,
-      "adCompetitionLevel": "중간",
-      "monthlyPcSearch": 10,
-      "monthlyMobileSearch": 20,
-      "totalSearch": 30,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 29.970029970029973,
-      "competitionRatio": 33.333333333333336,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "부동산정책변경",
-      "category": "이슈",
-      "isSeed": true,
-      "adCompetitionLevel": "낮음",
-      "monthlyPcSearch": 10,
-      "monthlyMobileSearch": 10,
-      "totalSearch": 20,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 19.98001998001998,
-      "competitionRatio": 50,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "명절선물트렌드",
-      "category": "이슈",
-      "isSeed": true,
-      "adCompetitionLevel": "높음",
-      "monthlyPcSearch": 10,
-      "monthlyMobileSearch": 10,
-      "totalSearch": 20,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 19.98001998001998,
-      "competitionRatio": 50,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "ISA계좌추천",
-      "category": "재테크",
-      "isSeed": true,
-      "adCompetitionLevel": "높음",
-      "monthlyPcSearch": 620,
-      "monthlyMobileSearch": 1660,
-      "totalSearch": 2280,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 2277.722277722278,
-      "competitionRatio": 0.43859649122807015,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "청년도약계좌",
-      "category": "재테크",
-      "isSeed": true,
-      "adCompetitionLevel": "낮음",
-      "monthlyPcSearch": 16200,
-      "monthlyMobileSearch": 67400,
-      "totalSearch": 83600,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 83516.48351648352,
-      "competitionRatio": 0.011961722488038277,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "배당주투자",
-      "category": "재테크",
-      "isSeed": true,
-      "adCompetitionLevel": "높음",
-      "monthlyPcSearch": 100,
-      "monthlyMobileSearch": 160,
-      "totalSearch": 260,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 259.7402597402597,
-      "competitionRatio": 3.8461538461538463,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "파킹통장금리비교",
-      "category": "재테크",
-      "isSeed": true,
-      "adCompetitionLevel": "중간",
-      "monthlyPcSearch": 3780,
-      "monthlyMobileSearch": 10200,
-      "totalSearch": 13980,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 13966.033966033965,
-      "competitionRatio": 0.0715307582260372,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "챗GPT활용법",
-      "category": "IT",
-      "isSeed": true,
-      "adCompetitionLevel": "높음",
-      "monthlyPcSearch": 40,
-      "monthlyMobileSearch": 80,
-      "totalSearch": 120,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 119.88011988011989,
-      "competitionRatio": 8.333333333333334,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "아이폰신제품",
-      "category": "IT",
-      "isSeed": true,
-      "adCompetitionLevel": "중간",
-      "monthlyPcSearch": 30,
-      "monthlyMobileSearch": 180,
-      "totalSearch": 210,
-      "blogDocCount": 108,
-      "isDocCountCapped": false,
-      "goldenScore": 1926.605504587156,
-      "competitionRatio": 0.5142857142857142,
-      "grade": "황금",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "클라우드스토리지추천",
-      "category": "IT",
-      "isSeed": true,
-      "adCompetitionLevel": "높음",
-      "monthlyPcSearch": 10,
-      "monthlyMobileSearch": 10,
-      "totalSearch": 20,
-      "blogDocCount": 395,
-      "isDocCountCapped": false,
-      "goldenScore": 50.505050505050505,
-      "competitionRatio": 19.75,
-      "grade": "양호",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "스마트워치비교",
-      "category": "IT",
-      "isSeed": true,
-      "adCompetitionLevel": "높음",
-      "monthlyPcSearch": 1250,
-      "monthlyMobileSearch": 4750,
-      "totalSearch": 6000,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 5994.005994005995,
-      "competitionRatio": 0.16666666666666666,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "재택근무툴",
-      "category": "IT",
-      "isSeed": true,
-      "adCompetitionLevel": "높음",
-      "monthlyPcSearch": 10,
-      "monthlyMobileSearch": 10,
-      "totalSearch": 20,
-      "blogDocCount": 95,
-      "isDocCountCapped": false,
-      "goldenScore": 208.33333333333334,
-      "competitionRatio": 4.75,
-      "grade": "황금",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "적금계산기",
-      "category": "재테크",
-      "isSeed": false,
-      "expandedFrom": "파킹통장 금리비교",
-      "adCompetitionLevel": "낮음",
-      "monthlyPcSearch": 31400,
-      "monthlyMobileSearch": 114900,
-      "totalSearch": 146300,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 146153.84615384616,
-      "competitionRatio": 0.00683526999316473,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "예금이자계산기",
-      "category": "재테크",
-      "isSeed": false,
-      "expandedFrom": "파킹통장 금리비교",
-      "adCompetitionLevel": "낮음",
-      "monthlyPcSearch": 18900,
-      "monthlyMobileSearch": 99100,
-      "totalSearch": 118000,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 117882.11788211788,
-      "competitionRatio": 0.00847457627118644,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "이자계산",
-      "category": "재테크",
-      "isSeed": false,
-      "expandedFrom": "파킹통장 금리비교",
-      "adCompetitionLevel": "낮음",
-      "monthlyPcSearch": 2870,
-      "monthlyMobileSearch": 7620,
-      "totalSearch": 10490,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 10479.520479520479,
-      "competitionRatio": 0.09532888465204957,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "캐서린홀름",
-      "category": "생활",
-      "isSeed": false,
-      "expandedFrom": "실내 인테리어 소품",
-      "adCompetitionLevel": "낮음",
-      "monthlyPcSearch": 120,
-      "monthlyMobileSearch": 4380,
-      "totalSearch": 4500,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 4495.504495504496,
-      "competitionRatio": 0.2222222222222222,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "수납",
-      "category": "생활",
-      "isSeed": false,
-      "expandedFrom": "미니멀 라이프",
-      "adCompetitionLevel": "낮음",
-      "monthlyPcSearch": 810,
-      "monthlyMobileSearch": 2920,
-      "totalSearch": 3730,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 3726.2737262737264,
-      "competitionRatio": 0.2680965147453083,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "KITCHEN",
-      "category": "생활",
-      "isSeed": false,
-      "expandedFrom": "미니멀 라이프",
-      "adCompetitionLevel": "낮음",
-      "monthlyPcSearch": 490,
-      "monthlyMobileSearch": 1910,
-      "totalSearch": 2400,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 2397.6023976023976,
-      "competitionRatio": 0.4166666666666667,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "생활",
-      "category": "생활",
-      "isSeed": false,
-      "expandedFrom": "미니멀 라이프",
-      "adCompetitionLevel": "낮음",
-      "monthlyPcSearch": 320,
-      "monthlyMobileSearch": 1230,
-      "totalSearch": 1550,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 1548.4515484515484,
-      "competitionRatio": 0.6451612903225806,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "삼성증권CMA",
-      "category": "재테크",
-      "isSeed": false,
-      "expandedFrom": "파킹통장 금리비교",
-      "adCompetitionLevel": "낮음",
-      "monthlyPcSearch": 410,
-      "monthlyMobileSearch": 1040,
-      "totalSearch": 1450,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 1448.5514485514486,
-      "competitionRatio": 0.6896551724137931,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "배당금계산기",
-      "category": "재테크",
-      "isSeed": false,
-      "expandedFrom": "배당주 투자",
-      "adCompetitionLevel": "낮음",
-      "monthlyPcSearch": 430,
-      "monthlyMobileSearch": 1000,
-      "totalSearch": 1430,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 1428.5714285714287,
-      "competitionRatio": 0.6993006993006993,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "조코딩",
-      "category": "IT",
-      "isSeed": false,
-      "expandedFrom": "챗GPT 활용법",
-      "adCompetitionLevel": "낮음",
-      "monthlyPcSearch": 470,
-      "monthlyMobileSearch": 590,
-      "totalSearch": 1060,
-      "blogDocCount": 1000,
-      "isDocCountCapped": true,
-      "goldenScore": 1058.9410589410588,
-      "competitionRatio": 0.9433962264150944,
-      "grade": "포화",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    },
-    {
-      "keyword": "ISA뜻",
-      "category": "재테크",
-      "isSeed": false,
-      "expandedFrom": "ISA 계좌 추천",
-      "adCompetitionLevel": "낮음",
-      "monthlyPcSearch": 180,
-      "monthlyMobileSearch": 860,
-      "totalSearch": 1040,
-      "blogDocCount": 526,
-      "isDocCountCapped": false,
-      "goldenScore": 1973.4345351043644,
-      "competitionRatio": 0.5057692307692307,
-      "grade": "황금",
-      "collectedAt": "2026-10-25T23:03:35.772Z"
-    }
-  ]
+  "nextIndex": 0,
+  "metrics": []
 }
